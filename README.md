@@ -43,6 +43,10 @@ Forks are indicated with (fork).
 ## Custom Visualizations
 * [looker_custom_viz|https://github.com/epschroeder/looker_custom_viz] Custom visualizations for Looker
 
+## Integrations
+### Slack
+* [lookerbot|https://github.com/looker/lookerbot] Lookerbot lets you access all your Looker data from Slack! Super fun! https://looker.com/lookerbot #fromlooker
+
 ## Internal Applications
 
 ## Embeds
@@ -84,6 +88,9 @@ Forks are indicated with (fork).
 * [lkml|https://github.com/joshtemple/lkml] A speedy LookML parser & serializer implemented in pure Python. #python
 * [JSON to LookML|https://github.com/leighajarett/JSON_to_LookML] This script creates a LookML view file, and pushes it to production, that parses JSON fields into separate dimensions  #python #json
 * [j2v|https://github.com/Cimpress-MCP/j2v] Creates Looker Views and Explore based on provided JSON(s).  #python #json
+* [Look4j|https://github.com/githoov/look4j] Look4j is LookML parser that relies on ANTLR4 and Java.
+* [LookMLParser|https://github.com/JakeColtman/LookMLParser] Looker is a great tool for BI, but it has quite limited tooling.
+* [Looker Architecture Helper WIP|https://github.com/linyaru/lookml_helper] Looker Architecture Helper WIP 
 
 #### SSO
 * [SSO Embed Tool|https://fabio-looker.github.io/looker_sso_tool/#] Test SSO link creation #fromlooker
