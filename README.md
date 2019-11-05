@@ -11,7 +11,12 @@ The following tags are included throughout the page to make it easy to search.
 * Forks are indicated with (fork).
 
 ## Table of Contents
-
+* [Blocks by Data Source](#blocks-by-data-source)
+* [Custom Visualizations](#custom-visualizations)
+* [Integrations](#integrations)
+* [Internal Applications](#internal-applications)
+* [External Applications](#external-applications)
+* [Dev Tools](#dev-tools)
 
 ## Blocks by Data Source
 ### AWS
@@ -52,8 +57,6 @@ The following tags are included throughout the page to make it easy to search.
 * [lookerbot](https://github.com/looker/lookerbot) Lookerbot lets you access all your Looker data from Slack! Super fun! https://looker.com/lookerbot #fromlooker
 
 ## Internal Applications
-
-## Embeds
 
 ## External Applications
 
