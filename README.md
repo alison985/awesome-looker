@@ -68,6 +68,10 @@ Notes
 * [looker_custom_viz](https://github.com/epschroeder/looker_custom_viz) Custom visualizations for Looker
 * [Dashboard Filter Widget](https://github.com/fabio-looker/custom-fizz) A Looker Custom Viz that creates a Dashboard Filter Widget  #fromlooker
 * [d3 Looker API example](https://github.com/fabio-looker/d3-looker-api-example) Example of pulling data from Looker via XHR to visualize in d3 #fromlooker
+* [LookerVizBuilder.com](https://lookervisbuilder.com/) 
+
+## Extensions
+* [Data Dictionary Extension](https://hack.looker.com/extensions/join-extensions-demo::data-dictionary) This repository serves as a template for creating a new Looker Extension. #fromlooker
 
 ## Integrations
 ### Slack
@@ -160,3 +164,4 @@ Notes
 * [Custom Application Starter](https://github.com/bryan-at-looker/custom_application_starter) #fromlooker
   * [Custom Application Starter](https://github.com/fabio-looker/custom_application_starter) (fork) #node #fromlooker
 * [lookEntityRelationship](https://github.com/fabio-looker/lookEntityRelationship) Visualize entities based on Looker model API requests  #fromlooker
+* [Looker Components](https://components.looker.com/) #fromlooker
