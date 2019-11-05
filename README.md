@@ -88,6 +88,9 @@ Notes
 * [pylooker](https://github.com/bufferapp/pylooker) A Python interface to Looker API 
 * [looker google sheets](https://github.com/brechtv/looker_google_sheets) Custom Google Spreadsheet functions using the Looker API  #frombrechtv
 
+#### Components
+* [Looker Components - components.looker.com](https://components.looker.com/) #fromlooker
+
 #### Extensions
 * [Extension Template in React](https://github.com/looker-open-source/extension-template-react) This repository serves as a template for creating a new Looker Extension. #react
 
@@ -164,4 +167,5 @@ Notes
 * [Custom Application Starter](https://github.com/bryan-at-looker/custom_application_starter) #fromlooker
   * [Custom Application Starter](https://github.com/fabio-looker/custom_application_starter) (fork) #node #fromlooker
 * [lookEntityRelationship](https://github.com/fabio-looker/lookEntityRelationship) Visualize entities based on Looker model API requests  #fromlooker
-* [Looker Components](https://components.looker.com/) #fromlooker
+* [Automating Frequently Changing Schemas with AWS Lambda](https://discourse.looker.com/t/automating-frequently-changing-schemas-with-aws-lambda/10196) #lookerdiscoursepost
+
