@@ -5,8 +5,8 @@ Currently the criteria to be "awesome" is to be public on Github or Gitlab, or o
 
 The following tags are included throughout the page to make it easy to search.
 
-* #python | #node | #CICD | #PHP
-* #fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot
+* #python | #node | #CICD | #PHP | #json
+* #fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot | #fromleighajarett
 * #dialectredshift | #dialectsnowflake 
 * Forks are indicated with (fork).
 
@@ -59,6 +59,7 @@ The following tags are included throughout the page to make it easy to search.
 ## Internal Applications
 
 ## External Applications
+* [LookML Python Data Dictionary](https://github.com/leighajarett/LookML_Python_Data_Dictionary) This repo has the Python and LookML code for generating a data dictionary in your Looker Instance #python #fromleighajarett
 
 ### Dev Tools
 #### API
@@ -68,7 +69,7 @@ The following tags are included throughout the page to make it easy to search.
 
 #### Housekeeping
 * [Gazetteer](https://github.com/mathilda0902/gazetteer) Looker Dependency Graphs: getting around business queries as easily as your backyard.  #dialect-snowflake
-* [LookML Dependencies Tracer](https://github.com/leighajarett/LookML-Dependencies-Tracer) Contains a Python3 Jupyter Notebook which uses the LookerAPI to parse through the specified LookML model and results in a relational CSV file. #python
+* [LookML Dependencies Tracer](https://github.com/leighajarett/LookML-Dependencies-Tracer) Contains a Python3 Jupyter Notebook which uses the LookerAPI to parse through the specified LookML model and results in a relational CSV file. #python #fromleighajarett
 
 #### Linter
 * [lookml-tools](https://github.com/ww-tech/lookml-tools) Tools to handle best practices for LookML dev. Contains three tools: LookML updater, linter, and grapher #python
@@ -83,7 +84,7 @@ The following tags are included throughout the page to make it easy to search.
 * [lookml-gen](https://github.com/symphonyrm/lookml-gen) Generate LookML with Python code #python
 * [lookmlscript](https://github.com/llooker/lookmlscript) LookML Generator for Python  #python #fromlooker
 * [lookmlphp](https://github.com/ethosce/lookmlphp) Write LookML with PHP #PHP
-* [JSON to LookML](https://github.com/leighajarett/JSON_to_LookML) This script creates a LookML view file, and pushes it to production, that parses JSON fields into separate dimensions  #python #json
+* [JSON to LookML](https://github.com/leighajarett/JSON_to_LookML) This script creates a LookML view file, and pushes it to production, that parses JSON fields into separate dimensions  #python #json #fromleighajarett
 * [j2v](https://github.com/Cimpress-MCP/j2v) Creates Looker Views and Explore based on provided JSON(s).  #python #json
 
 ### LookML Editting
@@ -94,7 +95,7 @@ The following tags are included throughout the page to make it easy to search.
 
 #### Parser
 * [lkml](https://github.com/joshtemple/lkml) A speedy LookML parser & serializer implemented in pure Python. #python
-* [JSON to LookML](https://github.com/leighajarett/JSON_to_LookML) This script creates a LookML view file, and pushes it to production, that parses JSON fields into separate dimensions  #python #json
+* [JSON to LookML](https://github.com/leighajarett/JSON_to_LookML) This script creates a LookML view file, and pushes it to production, that parses JSON fields into separate dimensions  #python #json #fromleighajarett
 * [j2v](https://github.com/Cimpress-MCP/j2v) Creates Looker Views and Explore based on provided JSON(s).  #python #json
 * [Look4j](https://github.com/githoov/look4j) Look4j is LookML parser that relies on ANTLR4 and Java.
 * [LookMLParser](https://github.com/JakeColtman/LookMLParser) Looker is a great tool for BI, but it has quite limited tooling.
