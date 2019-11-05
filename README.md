@@ -32,9 +32,11 @@ Forks are indicated with (fork).
 * [Salesforce by Segment|https://github.com/llooker/salesforce_by_segment] A LookML block for Salesforce data ETL'd by Segment #fromsegment
 * [pipeline-looker-blocks/salesforce|https://github.com/pipeline-looker-blocks/salesforce]  LookML files for a Salesforce block compatible with Pipeline's schema #frompipeline
 ### Snowflake
-* [Zero to Snowflake|https://github.com/DecisiveData/ZeroToSnowflake] Code repository for Zero to Snowflake events 
+* [Zero to Snowflake|https://github.com/DecisiveData/ZeroToSnowflake] Code repository for Zero to Snowflake events  
 ### Snowplow
 * [snowplow-looker-demo|https://github.com/snowplow/snowplow-looker-demo] LookML for the Snowplow Looker demo #fromsnowplow
+* [snowplow-basic-demo-lookml|https://github.com/snowplow/snowplow-basic-demo-lookml] LookML for the basic Snowplow Looker demo #fromsnowplow
+* [snowplow-full-demo-lookml|https://github.com/snowplow/snowplow-full-demo-lookml] #fromsnowplow
 * [GDX Analytics Looker Snowplow Web Block|https://github.com/bcgov/GDX-Analytics-Looker-Snowplow-Web-Block] The GDX Analytics LookML project for Snowplow derived analytics #fromgdxanalytics
 * [snowplow-web-data-model|https://github.com/snowplow/snowplow-web-data-model] SQL data model for working with Snowplow web data. Supports Redshift and Looker. Snowflake and BigQuery coming soon #dialectredshift
 ### Zendesk
@@ -61,6 +63,7 @@ Forks are indicated with (fork).
 
 #### Housekeeping
 * [Gazetteer|https://github.com/mathilda0902/gazetteer] Looker Dependency Graphs: getting around business queries as easily as your backyard.  #dialect-snowflake
+* [LookML Dependencies Tracer|https://github.com/leighajarett/LookML-Dependencies-Tracer] Contains a Python3 Jupyter Notebook which uses the LookerAPI to parse through the specified LookML model and results in a relational CSV file. #python
 
 #### Linter
 * [lookml-tools|https://github.com/ww-tech/lookml-tools] Tools to handle best practices for LookML dev. Contains three tools: LookML updater, linter, and grapher #python
@@ -110,4 +113,6 @@ Forks are indicated with (fork).
 #### Other
 * [node-lookml-parser|https://github.com/fabio-looker/node-lookml-parser] Parse LookML in Node #node
 * [GDX Analytics|https://github.com/bcgov/GDX-Analytics] GDX-Analytics working space: microservices, tests, POCs, and other scripts #fromgdxanalytics
+* [lookml-eav-transformer|https://github.com/fabio-looker/lookml-eav-transformer] LookML EAV transformer #fromlooker
+* [LookML Parameter Option Generator|https://github.com/drewgillson/lookml-parameter-option-generator] Use a scheduled look to provide parameter option values to a Google Cloud Function, which will automatically maintain corresponding parameter option values specified in a LookML file. #python
 
