@@ -6,8 +6,8 @@ Currently the criteria to be "awesome" is to be public on Github or Gitlab, or o
 The following tags are included throughout the page to make it easy to search.
 
 #python | #node | #CICD | #PHP
-#fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs
-#dialectredshift | #fromdatarobot
+#fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot
+#dialectredshift | #dialectsnowflake 
 
 Forks are indicated with (fork).
 
@@ -54,6 +54,9 @@ Forks are indicated with (fork).
 * [Looker > lookml|https://github.com/llooker/lookml] This is a pythonic api for creating LookML objects. #python #fromlooker
 * [pylooker|https://github.com/bufferapp/pylooker] A Python interface to Looker API 
 * [looker google sheets|https://github.com/brechtv/looker_google_sheets] Custom Google Spreadsheet functions using the Looker API  #frombrechtv
+
+#### Housekeeping
+* [Gazetteer|https://github.com/mathilda0902/gazetteer] Looker Dependency Graphs: getting around business queries as easily as your backyard.  #dialect-snowflake
 
 #### Linter
 * [lookml-tools|https://github.com/ww-tech/lookml-tools] Tools to handle best practices for LookML dev. Contains three tools: LookML updater, linter, and grapher #python
