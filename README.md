@@ -45,6 +45,7 @@ Notes
 * [GDX Analytics Looker Redshift Admin by AWS](https://github.com/bcgov/GDX-Analytics-Looker-Redshift_Admin_By_AWS) The GDX Analytics LookML project for Redshift Admin by AWS  #fromgdxanalytics #dialectredshift
 * [blocks_redshift_admin](https://github.com/heyjobs/blocks_redshift_admin) (fork) #fromheyjobs #dialectredshift
 * [blocks_redshift_admin](https://github.com/fabio-looker/blocks_redshift_admin) (fork) #fromlooker #dialectredshift
+* [blockwork-redshift-admin](https://github.com/fabio-looker/blockwork-redshift-admin) #fromlooker #dialectredshift
 ### Salesforce
 * [Salesforce by Segment](https://github.com/llooker/salesforce_by_segment) A LookML block for Salesforce data ETL'd by Segment #fromsegment
 * [pipeline-looker-blocks/salesforce](https://github.com/pipeline-looker-blocks/salesforce)  LookML files for a Salesforce block compatible with Pipeline's schema #frompipeline
@@ -66,6 +67,7 @@ Notes
 ## Custom Visualizations
 * [looker_custom_viz](https://github.com/epschroeder/looker_custom_viz) Custom visualizations for Looker
 * [Dashboard Filter Widget](https://github.com/fabio-looker/custom-fizz) A Looker Custom Viz that creates a Dashboard Filter Widget  #fromlooker
+* [d3 Looker API example](https://github.com/fabio-looker/d3-looker-api-example) Example of pulling data from Looker via XHR to visualize in d3 #fromlooker
 
 ## Integrations
 ### Slack
@@ -105,6 +107,7 @@ Notes
 * [Blockwork](https://github.com/fabio-looker/blockwork) A tool for working with Looker blocks. #node
 * [OJOF transformer](https://github.com/fabio-looker/ojof-transformer) #OJOF
 * [LookML Parameter Option Generator](https://github.com/drewgillson/lookml-parameter-option-generator) Use a scheduled look to provide parameter option values to a Google Cloud Function, which will automatically maintain corresponding parameter option values specified in a LookML file. #python
+* [Build outer-join-on-false explores](https://github.com/fabio-looker/ojof-builder) Build outer-join-on-false explores  #fromlooker
 
 ### LookML Editting
 * [dbtdocs-to-lookml](https://github.com/fishtown-analytics/dbtdocs-to-lookml) [WIP) A script to add descriptions from dbt schema files to your lookml project #python
@@ -144,5 +147,4 @@ Notes
 * [Looker Script Runner](https://github.com/fabio-looker/looker-script-runner) Page to run scripts against a Looker instance leveraging Google Cloud Functions #GCP
 * [Custom Application Starter](https://github.com/bryan-at-looker/custom_application_starter) #fromlooker
   * [Custom Application Starter](https://github.com/fabio-looker/custom_application_starter) (fork) #node #fromlooker
-
-
+* [lookEntityRelationship](https://github.com/fabio-looker/lookEntityRelationship) Visualize entities based on Looker model API requests  #fromlooker
