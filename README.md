@@ -9,6 +9,7 @@ The following tags are included throughout the page to make it easy to search.
 * _Creator_ #fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot | #fromleighajarett | #fromcaura
 * _Database Dialect_ #dialectredshift | #dialectsnowflake | #dialecctbigquery
 * _Modeling_ #EAV
+* _Environment_ #GCP
 * Forks are indicated with (fork).
 
 ## Table of Contents
@@ -35,9 +36,10 @@ The following tags are included throughout the page to make it easy to search.
 ### Mixpanel
 * [Mixpanel block](https://github.com/caura/mixpanel) #fromcaura
 ### Redshift
-* [Looker_SystemStats](https://github.com/dovicn/Looker_SystemStats) Lookml definition for System Stats retrieval from Redshift.
-* [GDX Analytics Looker Redshift Admin by AWS](https://github.com/bcgov/GDX-Analytics-Looker-Redshift_Admin_By_AWS) The GDX Analytics LookML project for Redshift Admin by AWS  #fromgdxanalytics
-* [blocks_redshift_admin](https://github.com/heyjobs/blocks_redshift_admin) (fork) #fromheyjobs
+* [Looker_SystemStats](https://github.com/dovicn/Looker_SystemStats) Lookml definition for System Stats retrieval from Redshift. #dialectredshift
+* [GDX Analytics Looker Redshift Admin by AWS](https://github.com/bcgov/GDX-Analytics-Looker-Redshift_Admin_By_AWS) The GDX Analytics LookML project for Redshift Admin by AWS  #fromgdxanalytics #dialectredshift
+* [blocks_redshift_admin](https://github.com/heyjobs/blocks_redshift_admin) (fork) #fromheyjobs #dialectredshift
+* [blocks_redshift_admin](https://github.com/fabio-looker/blocks_redshift_admin) (fork) #fromlooker #dialectredshift
 ### Salesforce
 * [Salesforce by Segment](https://github.com/llooker/salesforce_by_segment) A LookML block for Salesforce data ETL'd by Segment #fromsegment
 * [pipeline-looker-blocks/salesforce](https://github.com/pipeline-looker-blocks/salesforce)  LookML files for a Salesforce block compatible with Pipeline's schema #frompipeline
@@ -86,6 +88,7 @@ The following tags are included throughout the page to make it easy to search.
 ### Looker Actions
 * [looker-data-actions](https://github.com/bufferapp/looker-data-actions) Set of Looker Data Actions to perform tasks in other tools from directly within Looker. 
 * [Action Hub fork](https://github.com/datarobot/actions) A public fork of the official Looker Action Hub. (fork) #fromdatarobot
+* [Sample Looker Action](https://github.com/fabio-looker/sample-cloud-function-action) A sample/mock Looker Action that can be deployed to Google Cloud Functions (or mocked locally) #GCP
 
 ### LookML Generator
 * [lookml-gen](https://github.com/symphonyrm/lookml-gen) Generate LookML with Python code #python
@@ -130,5 +133,6 @@ The following tags are included throughout the page to make it easy to search.
 * [lookml-eav-transformer](https://github.com/fabio-looker/lookml-eav-transformer) LookML EAV transformer #fromlooker #EAV
 * [eav-builder](https://github.com/fabio-looker/eav-builder) Build LookML models for EAV schema 
 * [LookML Parameter Option Generator](https://github.com/drewgillson/lookml-parameter-option-generator) Use a scheduled look to provide parameter option values to a Google Cloud Function, which will automatically maintain corresponding parameter option values specified in a LookML file. #python
+* [Looker Script Runner](https://github.com/fabio-looker/looker-script-runner) Page to run scripts against a Looker instance leveraging Google Cloud Functions #GCP
 
 
