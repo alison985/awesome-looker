@@ -8,9 +8,14 @@ The following tags are included throughout the page to make it easy to search.
 * _Language_ #python | #CICD | #PHP | #json | #node (yes technically it's javascript, but it's a specific type of javascript)
 * _Creator_ #fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot | #fromleighajarett | #fromcaura
 * _Database Dialect_ #dialectredshift | #dialectsnowflake | #dialecctbigquery
-* _Modeling_ #EAV
+* _Modeling_ #EAV | #OJOF
 * _Environment_ #GCP
+
+Notes
+
 * Forks are indicated with (fork).
+* Order indicates order found not any preferences, seniority, quality.
+
 
 ## Table of Contents
 * [Blocks by Data Source](#blocks-by-data-source)
@@ -60,6 +65,7 @@ The following tags are included throughout the page to make it easy to search.
 
 ## Custom Visualizations
 * [looker_custom_viz](https://github.com/epschroeder/looker_custom_viz) Custom visualizations for Looker
+* [Dashboard Filter Widget](https://github.com/fabio-looker/custom-fizz) A Looker Custom Viz that creates a Dashboard Filter Widget  #fromlooker
 
 ## Integrations
 ### Slack
@@ -97,6 +103,8 @@ The following tags are included throughout the page to make it easy to search.
 * [JSON to LookML](https://github.com/leighajarett/JSON_to_LookML) This script creates a LookML view file, and pushes it to production, that parses JSON fields into separate dimensions  #python #json #fromleighajarett
 * [j2v](https://github.com/Cimpress-MCP/j2v) Creates Looker Views and Explore based on provided JSON(s).  #python #json
 * [Blockwork](https://github.com/fabio-looker/blockwork) A tool for working with Looker blocks. #node
+* [OJOF transformer](https://github.com/fabio-looker/ojof-transformer) #OJOF
+* [LookML Parameter Option Generator](https://github.com/drewgillson/lookml-parameter-option-generator) Use a scheduled look to provide parameter option values to a Google Cloud Function, which will automatically maintain corresponding parameter option values specified in a LookML file. #python
 
 ### LookML Editting
 * [dbtdocs-to-lookml](https://github.com/fishtown-analytics/dbtdocs-to-lookml) [WIP) A script to add descriptions from dbt schema files to your lookml project #python
@@ -115,6 +123,7 @@ The following tags are included throughout the page to make it easy to search.
 
 #### SSO
 * [SSO Embed Tool](https://fabio-looker.github.io/looker_sso_tool/#) Test SSO link creation #fromlooker
+* [Looker SSO Tool](https://github.com/fabio-looker/looker_sso_tool) One page app that allows you to quickly build and embed an SSO iframe  #fromlooker
 
 #### Style Guide
 * [lookml-style-guide](https://github.com/mattm/lookml-style-guide) A style guide for LookML wranglers 
@@ -132,7 +141,8 @@ The following tags are included throughout the page to make it easy to search.
 * [GDX Analytics](https://github.com/bcgov/GDX-Analytics) GDX-Analytics working space: microservices, tests, POCs, and other scripts #fromgdxanalytics
 * [lookml-eav-transformer](https://github.com/fabio-looker/lookml-eav-transformer) LookML EAV transformer #fromlooker #EAV
 * [eav-builder](https://github.com/fabio-looker/eav-builder) Build LookML models for EAV schema 
-* [LookML Parameter Option Generator](https://github.com/drewgillson/lookml-parameter-option-generator) Use a scheduled look to provide parameter option values to a Google Cloud Function, which will automatically maintain corresponding parameter option values specified in a LookML file. #python
 * [Looker Script Runner](https://github.com/fabio-looker/looker-script-runner) Page to run scripts against a Looker instance leveraging Google Cloud Functions #GCP
+* [Custom Application Starter](https://github.com/bryan-at-looker/custom_application_starter) #fromlooker
+  * [Custom Application Starter](https://github.com/fabio-looker/custom_application_starter) (fork) #node #fromlooker
 
 
