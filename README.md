@@ -5,7 +5,7 @@ Currently the criteria to be "awesome" is to be public on Github or Gitlab, or o
 
 The following tags are included throughout the page to make it easy to search.
 
-* _Language_ #python | #CICD | #PHP | #json | #node (yes technically it's javascript, but it's a specific type of javascript)
+* _Languages and Frameworks_ #python | #CICD | #PHP | #json | #node | #react
 * _Creator_ #fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot | #fromleighajarett | #fromcaura
 * _Database Dialect_ #dialectredshift | #dialectsnowflake | #dialecctbigquery
 * _Misc_ #EAV | #OJOF | #mediumpost | #discoursepost | #examples
@@ -84,6 +84,9 @@ Notes
 * [pylooker](https://github.com/bufferapp/pylooker) A Python interface to Looker API 
 * [looker google sheets](https://github.com/brechtv/looker_google_sheets) Custom Google Spreadsheet functions using the Looker API  #frombrechtv
 
+#### Extensions
+* [Extension Template in React](https://github.com/looker-open-source/extension-template-react) This repository serves as a template for creating a new Looker Extension. #react
+
 #### Housekeeping
 * [Gazetteer](https://github.com/mathilda0902/gazetteer) Looker Dependency Graphs: getting around business queries as easily as your backyard.  #dialect-snowflake
 * [LookML Dependencies Tracer](https://github.com/leighajarett/LookML-Dependencies-Tracer) Contains a Python3 Jupyter Notebook which uses the LookerAPI to parse through the specified LookML model and results in a relational CSV file. #python #fromleighajarett
@@ -132,9 +135,10 @@ Notes
 * [Python SDK - PyPi](https://pypi.org/project/looker-sdk/) #python
 * [SDK Examples](https://github.com/looker-open-source/sdk-examples/) #examples
 
-#### SSO
+#### SSO and Embeds
 * [SSO Embed Tool](https://fabio-looker.github.io/looker_sso_tool/#) Test SSO link creation #fromlooker
 * [Looker SSO Tool](https://github.com/fabio-looker/looker_sso_tool) One page app that allows you to quickly build and embed an SSO iframe  #fromlooker
+* [Node Embed SDK](https://www.npmjs.com/package/@looker/embed-sdk) #node #SDK
 
 #### Style Guide
 * [lookml-style-guide](https://github.com/mattm/lookml-style-guide) A style guide for LookML wranglers 
