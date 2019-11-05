@@ -1,15 +1,17 @@
 # awesome-looker
 A list/directory of awesome/helpful Looker and LookML work.
 
-Currently the criteria to be "awesome" is to be public on Github or Gitlab, or on Looker's discourse or Looker.com, maintained, and not deprecated. Individual LookML project repos do not qualify but specific file(s) highlighting cool design patterns or code hacks may be featured.
+Currently the criteria to be "awesome" is to be public on Github or Gitlab, or on Looker's discourse or Looker.com, maintained, and not deprecated. Individual LookML project repos do not qualify but specific file(s) highlighting cool design patterns or code hacks may be featured. 
 
 The following tags are included throughout the page to make it easy to search.
 
-#python | #node | #CICD | #PHP
-#fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot
-#dialectredshift | #dialectsnowflake 
+* #python | #node | #CICD | #PHP
+* #fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot
+* #dialectredshift | #dialectsnowflake 
+* Forks are indicated with (fork).
 
-Forks are indicated with (fork).
+## Table of Contents
+
 
 ## Blocks by Data Source
 ### AWS
