@@ -5,10 +5,10 @@ Currently the criteria to be "awesome" is to be public on Github or Gitlab, or o
 
 The following tags are included throughout the page to make it easy to search.
 
-* #python | #node | #CICD | #PHP | #json
-* #fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot | #fromleighajarett | #fromcaura
-* #dialectredshift | #dialectsnowflake 
-* #EAV
+* _Language_ #python | #CICD | #PHP | #json | #node (yes technically it's javascript, but it's a specific type of javascript)
+* _Creator_ #fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot | #fromleighajarett | #fromcaura
+* _Database Dialect_ #dialectredshift | #dialectsnowflake | #dialecctbigquery
+* _Modeling_ #EAV
 * Forks are indicated with (fork).
 
 ## Table of Contents
@@ -42,6 +42,7 @@ The following tags are included throughout the page to make it easy to search.
 * [Salesforce by Segment](https://github.com/llooker/salesforce_by_segment) A LookML block for Salesforce data ETL'd by Segment #fromsegment
 * [pipeline-looker-blocks/salesforce](https://github.com/pipeline-looker-blocks/salesforce)  LookML files for a Salesforce block compatible with Pipeline's schema #frompipeline
 * [causa salesforce](https://github.com/caura/salesforce) generic LookML model for salesforce dataset #fromcaura
+* [Salesforce block](https://github.com/seanlhiggins/salesforce_block) Salesforce Block Converted to New LookML and for BigQuery #dialectbigquery
 ### Snowflake
 * [Zero to Snowflake](https://github.com/DecisiveData/ZeroToSnowflake) Code repository for Zero to Snowflake events  
 ### Snowplow
@@ -50,6 +51,8 @@ The following tags are included throughout the page to make it easy to search.
 * [snowplow-full-demo-lookml](https://github.com/snowplow/snowplow-full-demo-lookml) #fromsnowplow
 * [GDX Analytics Looker Snowplow Web Block](https://github.com/bcgov/GDX-Analytics-Looker-Snowplow-Web-Block) The GDX Analytics LookML project for Snowplow derived analytics #fromgdxanalytics
 * [snowplow-web-data-model](https://github.com/snowplow/snowplow-web-data-model) SQL data model for working with Snowplow web data. Supports Redshift and Looker. Snowflake and BigQuery coming soon #dialectredshift
+### Stripe
+* [Stripe](https://github.com/pipeline-looker-blocks/stripe) LookML files for a Stripe block compatible with Pipeline's schema #frompipeline 
 ### Zendesk
 * [zendesk](https://github.com/pipeline-looker-blocks/zendesk) LookML files for a Zendesk block compatible with Pipeline's schema #frompipeline
 
@@ -90,6 +93,7 @@ The following tags are included throughout the page to make it easy to search.
 * [lookmlphp](https://github.com/ethosce/lookmlphp) Write LookML with PHP #PHP
 * [JSON to LookML](https://github.com/leighajarett/JSON_to_LookML) This script creates a LookML view file, and pushes it to production, that parses JSON fields into separate dimensions  #python #json #fromleighajarett
 * [j2v](https://github.com/Cimpress-MCP/j2v) Creates Looker Views and Explore based on provided JSON(s).  #python #json
+* [Blockwork](https://github.com/fabio-looker/blockwork) A tool for working with Looker blocks. #node
 
 ### LookML Editting
 * [dbtdocs-to-lookml](https://github.com/fishtown-analytics/dbtdocs-to-lookml) [WIP) A script to add descriptions from dbt schema files to your lookml project #python
