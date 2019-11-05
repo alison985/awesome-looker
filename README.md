@@ -6,8 +6,9 @@ Currently the criteria to be "awesome" is to be public on Github or Gitlab, or o
 The following tags are included throughout the page to make it easy to search.
 
 * #python | #node | #CICD | #PHP | #json
-* #fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot | #fromleighajarett
+* #fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics | #frombrechtv | #fromheyjobs | #fromdatarobot | #fromleighajarett | #fromcaura
 * #dialectredshift | #dialectsnowflake 
+* #EAV
 * Forks are indicated with (fork).
 
 ## Table of Contents
@@ -31,6 +32,8 @@ The following tags are included throughout the page to make it easy to search.
 * [heap-looker-block-merchandising](https://github.com/heap/heap-looker-block-merchandising)  #fromheap
 * [heap-looker-block-overview](https://github.com/heap/heap-looker-block-overview)  #fromheap
 * [heap-looker-user-journey-map](https://github.com/heap/looker_user_journey_map) #fromheap
+### Mixpanel
+* [Mixpanel block](https://github.com/caura/mixpanel) #fromcaura
 ### Redshift
 * [Looker_SystemStats](https://github.com/dovicn/Looker_SystemStats) Lookml definition for System Stats retrieval from Redshift.
 * [GDX Analytics Looker Redshift Admin by AWS](https://github.com/bcgov/GDX-Analytics-Looker-Redshift_Admin_By_AWS) The GDX Analytics LookML project for Redshift Admin by AWS  #fromgdxanalytics
@@ -38,6 +41,7 @@ The following tags are included throughout the page to make it easy to search.
 ### Salesforce
 * [Salesforce by Segment](https://github.com/llooker/salesforce_by_segment) A LookML block for Salesforce data ETL'd by Segment #fromsegment
 * [pipeline-looker-blocks/salesforce](https://github.com/pipeline-looker-blocks/salesforce)  LookML files for a Salesforce block compatible with Pipeline's schema #frompipeline
+* [causa salesforce](https://github.com/caura/salesforce) generic LookML model for salesforce dataset #fromcaura
 ### Snowflake
 * [Zero to Snowflake](https://github.com/DecisiveData/ZeroToSnowflake) Code repository for Zero to Snowflake events  
 ### Snowplow
@@ -100,6 +104,7 @@ The following tags are included throughout the page to make it easy to search.
 * [Look4j](https://github.com/githoov/look4j) Look4j is LookML parser that relies on ANTLR4 and Java.
 * [LookMLParser](https://github.com/JakeColtman/LookMLParser) Looker is a great tool for BI, but it has quite limited tooling.
 * [Looker Architecture Helper WIP](https://github.com/linyaru/lookml_helper) Looker Architecture Helper WIP 
+* [lkmlprsr](https://github.com/drapadubok/lkmlprsr) PEG grammar for lookML, in Python #python
 
 #### SSO
 * [SSO Embed Tool](https://fabio-looker.github.io/looker_sso_tool/#) Test SSO link creation #fromlooker
@@ -109,7 +114,6 @@ The following tags are included throughout the page to make it easy to search.
 
 #### Syntax Highlighting
 * [lkml.vim](https://github.com/thalesmello/lkml.vim) A LookML syntax for vim. 
-* [lookml-sublime-syntax](https://github.com/ContrastingSounds/lookml-sublime-syntax) This file can be added to your Sublime Text 3 configuration to display LookML files with syntax highlighting. This applies to both LookML and embedded Liquid, HTML, URLs and SQL code.
 * [vscode-looker](https://github.com/Ladvien/vscode-looker) A Visual Studio Code extension to assist with developing LookML. 
 
 #### Testing and CI/CD
@@ -119,6 +123,8 @@ The following tags are included throughout the page to make it easy to search.
 #### Other
 * [node-lookml-parser](https://github.com/fabio-looker/node-lookml-parser) Parse LookML in Node #node
 * [GDX Analytics](https://github.com/bcgov/GDX-Analytics) GDX-Analytics working space: microservices, tests, POCs, and other scripts #fromgdxanalytics
-* [lookml-eav-transformer](https://github.com/fabio-looker/lookml-eav-transformer) LookML EAV transformer #fromlooker
+* [lookml-eav-transformer](https://github.com/fabio-looker/lookml-eav-transformer) LookML EAV transformer #fromlooker #EAV
+* [eav-builder](https://github.com/fabio-looker/eav-builder) Build LookML models for EAV schema 
 * [LookML Parameter Option Generator](https://github.com/drewgillson/lookml-parameter-option-generator) Use a scheduled look to provide parameter option values to a Google Cloud Function, which will automatically maintain corresponding parameter option values specified in a LookML file. #python
+
 
