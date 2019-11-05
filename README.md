@@ -5,9 +5,11 @@ Currently the criteria to be "awesome" is to be public on Github or Gitlab, or o
 
 The following tags are included throughout the page to make it easy to search.
 #python | #node | #CICD | #PHP
-#fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow
+#fromlooker | #frompipeline | #fromheap | #fromsegment | #fromsnowplow | #fromgdxanalytics
 
 ## Blocks by Data Source
+### AWS
+* [GDX Analytics Looker AWS Cost and Usage|https://github.com/bcgov/GDX-Analytics-Looker-AWS-Cost-And-Usage]  The GDX Analytics LookML project to monitor cost and usage of AWS #fromgdxanalytics
 ### Facebook Ads
 * [pipeline-looker-blocks/facebooksads|https://github.com/pipeline-looker-blocks/facebookads] LookML files for a Facebook block compatible with Pipeline's schema #frompipeline
 ### Heap
@@ -16,12 +18,14 @@ The following tags are included throughout the page to make it easy to search.
 * [heap-looker-block-overview|https://github.com/heap/heap-looker-block-overview]  #fromheap
 * [heap-looker-user-journey-map|https://github.com/heap/looker_user_journey_map] #fromheap
 ### Redshift
-* [Looker_SystemStats|https://github.com/dovicn/Looker_SystemStats] Lookml definition for System Stats retrieval from Redshift. 
+* [Looker_SystemStats|https://github.com/dovicn/Looker_SystemStats] Lookml definition for System Stats retrieval from Redshift.
+* [GDX Analytics Looker Redshift Admin by AWS|https://github.com/bcgov/GDX-Analytics-Looker-Redshift_Admin_By_AWS] The GDX Analytics LookML project for Redshift Admin by AWS  #fromgdxanalytics
 ### Salesforce
 * [Salesforce by Segment|https://github.com/llooker/salesforce_by_segment] A LookML block for Salesforce data ETL'd by Segment #fromsegment
 * [pipeline-looker-blocks/salesforce|https://github.com/pipeline-looker-blocks/salesforce]  LookML files for a Salesforce block compatible with Pipeline's schema #frompipeline
 ### Snowplow
 * [snowplow-looker-demo|https://github.com/snowplow/snowplow-looker-demo] LookML for the Snowplow Looker demo #fromsnowplow
+* [GDX Analytics Looker Snowplow Web Block|https://github.com/bcgov/GDX-Analytics-Looker-Snowplow-Web-Block] The GDX Analytics LookML project for Snowplow derived analytics #fromgdxanalytics
 ### Zendesk
 * [zendesk|https://github.com/pipeline-looker-blocks/zendesk] LookML files for a Zendesk block compatible with Pipeline's schema #frompipeline
 
@@ -72,4 +76,5 @@ The following tags are included throughout the page to make it easy to search.
 
 #### Other
 * [node-lookml-parser|https://github.com/fabio-looker/node-lookml-parser] Parse LookML in Node #node
+* [GDX Analytics|https://github.com/bcgov/GDX-Analytics] GDX-Analytics working space: microservices, tests, POCs, and other scripts #fromgdxanalytics
 
